@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(25, 19, 19);
+}
+.bodys{
+    gap:30px;
+    align-items: center;
+    justify-content: center;
+    padding-inline-start: 150px;
+    padding-top: 120px;
+}
+#mainin{
+    width:45vw;
+}
